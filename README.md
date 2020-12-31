@@ -12,5 +12,5 @@ Este curos vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por increible platzi team
-
+* Incluye ejemplos hechos en linux, windows y mac.
 Y como un amable recordatorio, **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y mejor ve [a ver el curso](https://google.com 'a ver el curso'). 
