@@ -11,5 +11,6 @@ Este curos vemos de todo:
 * El verdadero amor por la buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
+* Creado por increible platzi team
 
 Y como un amable recordatorio, **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y mejor ve [a ver el curso](https://google.com 'a ver el curso'). 
